@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T09:11:30.446Z" agent="5.0 (Windows)" etag="bPTskAn4HWemtPEdQaq0" version="14.2.9" type="github"><diagram id="XufAEa3ROOlBY7IFaMoH" name="Page-1">7Vrbbts4EP0aA+1DFhR19aPlSxeLdLFIkG1faYu2hZUlRaIv2a9fkiIpUpfUqeVgHfSFlUfkkJwzOmfIdGRPd6cvBcq3X7MIJyMIotPIno0gDCybtszwUhkc26sMmyKOKpNVGx7jf7EwAmHdxxEujY4kyxIS56ZxlaUpXhHDhooiO5rd1llizpqjDW4ZHlcoaVu/xRHZim1Bv7b/juPNVs5seePqzQ7JzmIn5RZF2VEz2fORPS2yjFRPu9MUJyx2Mi7VuEXPW7WwAqfknAGHefT3l++PuyX47qA8Pz77iX8nvBxQshcbFoslLzICOI0mLJD01ypBZRmvRna4JbuEGiz6WA3AUSuO9cIstV2aJjjbYVK80C7HOqCuCNJWi6W0FThBJD6Y7pHAdaPcqRn+ymI6MQQiBa1A+BEZaEm/0kWZ7YsVFqP0AP7AkeM1HBFUbDBpOaIP2rZrE8fnDVjBj4+V5w2EVdOR03R0ZaycNlYzMBo7rA3BiIIRQN763BLwdtLCk+ATMREsSZH9g6dZkhXUkmYp7Rmu4yRpmFASb1KWBhRYTO3hARckprw2ES92cRSxacLjNib4MUcrNueRkji1Fdk+jTDbIFBZwxzg01vzRg5oAitZUcsrpyOvIOhPIQOztwLkdgI0sTgQLocG8GdoWCC4zx7Qt8mfHxcqD/wYKutdsfIuJ74IlVsepFtgwZZiBQOxYMvRlVnQ7wDOS9hnEsUHA0Dvec/qoHCdpeSu5FUgZUNggfxUv6RPG/Evd7KUhj/oBu4e8PMel0S+pAte1gPAp68TugcgeJa1c95OJSPTdsZbydFQ9Q/4x19Rw0IbG3J75cHnz7ZGFlAOt7QpfG14JQAhfx7LzgvpWVsVBA9PgReIFcnNF5cHkMaIA2FaL8Om3qXakOLSSvgCTfKg1rMRNj3SjoZbFfW5pp6uhl4gLApqCDT05BRVzxrhRYv2XSMXmstTDqG2yEDLFzVWrU2blz07hu4bVUHlsFoJS5DPfXA1OZAS2j1a0vOXQX3ny0uBKbpoyf0xMckZL3CmcMOROxMpsEC7OGGEQgmi2MRImMXRzXpVhcQpTcwxUpKhU2+/BPRKFvjNAr5vUJ082fwsFcsu2Xpd4quQY/AmVRO1Qp+klZTJSVsBuXkRJ3IMdSh+1TDdjg5CeyAdbDm6sg6O31MHJ6sVzommFLoSXiKDP02SrnxWlkCbeqYxZNhk727Cr6j7f66DarNzUw5U9DxNDuB0cR+z4gXcyc072uBG1aGrndIMt1WTzFoFhoog0CDRJQf2DOyuTH4pk6Dxj6VM8u61g69YPM/5KMbmNwHW1Zm1tkmIOgvIsV40BhpB6dWUTkeqaJx1ZbdyNRcZXXNL8Gp9qJK72nZPdtcncKvnjK7lfE+eDnBuHzc0zuk4tsP3PLZbXZfLF6VRnSETnVr9C2SIKws9Hr6uN59NUg5FAhrG/ls9IaS1XrXU5xbyy7MblwnjM++FmsXWcAk2wI34TV8MwaEuhlqOrlwQy78KXr0ifkqpsK/jYkcxhmCGCFUc8JT3XBK9+o0OXSF+Oq+o1kq2Jt20i2fausNdXA0rpo1zhL4Su+cyp/NQwJanHXR+1aCSCG+lCKU/6796V93r/zpgz/8D</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-03T09:26:52.849Z" agent="5.0 (Windows)" etag="LWcdmBXrCHs2lEibxEET" version="14.2.9" type="github">
+  <diagram id="XufAEa3ROOlBY7IFaMoH" name="Page-1">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vEdVGXSmb0X4appwq7l7-1" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="150" as="sourcePoint" />
+            <mxPoint x="180" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEdVGXSmb0X4appwq7l7-2" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="150" as="sourcePoint" />
+            <mxPoint x="660" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEdVGXSmb0X4appwq7l7-4" value="Датчик" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="120" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vEdVGXSmb0X4appwq7l7-5" value="Сервер LoRaWAN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="120" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vEdVGXSmb0X4appwq7l7-6" value="" style="endArrow=classic;html=1;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="180" as="sourcePoint" />
+            <mxPoint x="660" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEdVGXSmb0X4appwq7l7-7" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Join-Request&lt;/b&gt; (MAC команда, использует базовый план RU868, &lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;запрашивает подключение к сети, передает свои идентификаторы)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Georgia;fontSize=10;" parent="vEdVGXSmb0X4appwq7l7-6" vertex="1" connectable="0">
+          <mxGeometry x="0.1077" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEdVGXSmb0X4appwq7l7-8" value="" style="endArrow=none;html=1;dashed=1;startArrow=classic;startFill=1;endFill=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="230" as="sourcePoint" />
+            <mxPoint x="660" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEdVGXSmb0X4appwq7l7-9" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Join-Accept &lt;/b&gt;(MAC команда, передает сессионные ключи,&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;содержитCFList - дополнительный частотный план)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Georgia;fontSize=10;" parent="vEdVGXSmb0X4appwq7l7-8" vertex="1" connectable="0">
+          <mxGeometry x="0.1077" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEdVGXSmb0X4appwq7l7-10" value="&lt;font style=&quot;font-size: 9px&quot; face=&quot;Georgia&quot;&gt;Применяет настройки сети&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="1" vertex="1">
+          <mxGeometry x="90" y="240" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vEdVGXSmb0X4appwq7l7-11" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Создает сессию (ключи) для датчика&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="1" vertex="1">
+          <mxGeometry x="630" y="190" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vEdVGXSmb0X4appwq7l7-12" value="" style="endArrow=classic;html=1;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="280" as="sourcePoint" />
+            <mxPoint x="660" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vEdVGXSmb0X4appwq7l7-13" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Unconfirmed Data Up&lt;/b&gt; &lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;(передача данных, использует настройки сети, полученные в Join-Accept)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Georgia;fontSize=10;" parent="vEdVGXSmb0X4appwq7l7-12" vertex="1" connectable="0">
+          <mxGeometry x="0.1077" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mIrT85t2477WKxjw4_xu-1" value="&lt;font style=&quot;font-size: 9px&quot; face=&quot;Georgia&quot;&gt;Применяет настройки сети&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
